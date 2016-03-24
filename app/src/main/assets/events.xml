@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <eventType>Class</eventType>
+        <eventDay>Thursday</eventDay>
+        <eventTime>10:00</eventTime>
+        <eventNote>Distributed Systems</eventNote>
+    </event>
+</events>
